@@ -8,5 +8,3 @@ I'm Leandro 🤓,
 - 🎓 I'm a student at Federal University of Technology – Parana (UTFPR) in Brazil.
 - 💬 Ask me about everything you want!
 - 📫 How to reach me: https://www.linkedin.com/in/ldrpontes/
-
-[![HitCount](https://views.whatilearened.today/views/github/LdrPontes/LdrPontes.svg)](https://github.com/LdrPontes/LdrPontes)
